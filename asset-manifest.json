@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shades/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/shades/static/js/main.ee841eb9.chunk.js",
+    "main.js.map": "/shades/static/js/main.ee841eb9.chunk.js.map",
+    "runtime-main.js": "/shades/static/js/runtime-main.82fa8286.js",
+    "runtime-main.js.map": "/shades/static/js/runtime-main.82fa8286.js.map",
+    "static/js/2.42e5f729.chunk.js": "/shades/static/js/2.42e5f729.chunk.js",
+    "static/js/2.42e5f729.chunk.js.map": "/shades/static/js/2.42e5f729.chunk.js.map",
+    "static/js/3.6c42f9ba.chunk.js": "/shades/static/js/3.6c42f9ba.chunk.js",
+    "static/js/3.6c42f9ba.chunk.js.map": "/shades/static/js/3.6c42f9ba.chunk.js.map",
+    "index.html": "/shades/index.html",
+    "service-worker.js": "/shades/service-worker.js",
+    "service-worker.js.map": "/shades/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/shades/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.42e5f729.chunk.js.LICENSE.txt": "/shades/static/js/2.42e5f729.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/shades/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82fa8286.js",
+    "static/js/2.42e5f729.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ee841eb9.chunk.js"
+  ]
+}
